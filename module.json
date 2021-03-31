@@ -1,0 +1,7 @@
+{
+  "disableAutoUpdate": false,
+  "name": "fix laurel bug in dungeon",
+  "author": "Modnox",
+  "description": "Fixes your laurel when you are in dungeons.",
+  "servers": ["https://raw.githubusercontent.com/Modnox/fix-laurel-bug-in-dungeon/master/"]
+}
